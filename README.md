@@ -1,4 +1,5 @@
 # JetBot
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 <!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
